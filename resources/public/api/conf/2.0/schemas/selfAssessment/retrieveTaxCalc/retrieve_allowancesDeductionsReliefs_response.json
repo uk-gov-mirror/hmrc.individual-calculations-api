@@ -529,7 +529,8 @@
                       "socialEnterpriseInvestment",
                       "maintenancePayments",
                       "deficiencyRelief",
-                      "nonDeductibleLoanInterest"
+                      "nonDeductibleLoanInterest",
+                      "qualifyingDistributionRedemptionOfSharesAndSecurities"
                     ]
                   },
                   "amountClaimed": {
